@@ -1,3 +1,4 @@
 # Winter Project 1
 ### Metastatic Cancer Histopatholgic Image Classification 
-### CNN vs. Modified Resnet-18
+#### Data: Kaggle Histopathologic Image Dataset
+#### Model: CNN vs. Modified Resnet-18
